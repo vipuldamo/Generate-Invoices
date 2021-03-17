@@ -2,5 +2,5 @@
 
 * Copy all file from the repository
 * Create a folder inside htdocs folder
-* name that folder interview
-* call http://localhost/interview from browser
+* Name that folder interview
+* Call http://localhost/interview from browser
